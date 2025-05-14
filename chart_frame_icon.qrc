@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="chat_icon" lang="houtui">
+    <file>chat_icon/1559839459357.jpeg</file>
+    <file>chat_icon/icons8-customer-fill-50 .png</file>
+    <file>chat_icon/icons8-customer-50.png</file>
+    <file>chat_icon/icons8-add-p-50.png</file>
+    <file>chat_icon/icons8-减法-p-30.png</file>
+    <file>chat_icon/icons8-full-screen-p-50.png</file>
+    <file>chat_icon/icons8-乘-p-30.png</file>
+    <file>chat_icon/icons8-chat-bubble-p-50.png</file>
+    <file>chat_icon/icons8-快乐-p-30.png</file>
+    <file>chat_icon/icons8-folder-p-50.png</file>
+    <file>chat_icon/icons8-video-call-p-50.png</file>
+    <file>chat_icon/icons8-full-screen-50.png</file>
+    <file>chat_icon/icons8-chat-bubble-50.png</file>
+    <file>chat_icon/icons8-video-call-50.png</file>
+    <file>chat_icon/icons8-快乐-30.png</file>
+    <file>chat_icon/icons8-folder-50.png</file>
+    <file alias="houtui">chat_icon/icons8-后退-30.png</file>
+    <file alias="qianjin">chat_icon/icons8-前进-30.png</file>
+    <file>chat_icon/icons8-乘-30.png</file>
+    <file>chat_icon/icons8-减法-30.png</file>
+    <file>chat_icon/add_icon.png</file>
+    <file>chat_icon/serash.png</file>
+    <file>chat_icon/set_fill.png</file>
+    <file>chat_icon/set_empty.png</file>
+    <file>chat_icon/qipao_fill.png</file>
+    <file>chat_icon/qipao_empty.png</file>
+  </qresource>
+</RCC>
